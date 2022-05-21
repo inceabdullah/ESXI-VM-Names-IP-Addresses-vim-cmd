@@ -1,0 +1,5 @@
+{
+    "vmMasterIP": "172.16.1.15",
+    "sshUsername": "root",
+    "sshPassword": "password"
+}

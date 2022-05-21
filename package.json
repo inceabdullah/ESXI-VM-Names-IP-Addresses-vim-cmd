@@ -1,0 +1,19 @@
+{
+  "name": "vmware-ip-name-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.6",
+    "string-argv": "^0.3.1"
+  }
+}
